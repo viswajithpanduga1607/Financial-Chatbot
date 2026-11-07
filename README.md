@@ -29,4 +29,4 @@ This project is designed to run in a Jupyter Notebook environment such as Google
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/viswajithpanduga1607/Financial-Chatbot.git]
