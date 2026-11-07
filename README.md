@@ -1,4 +1,5 @@
 # Financial-Chatbot
+
 ## Project Overview
 This repository contains the source code for an Intelligent Financial Chatbot, developed as part of the AI-Powered Project Development assignment. The application addresses the real-world problem of financial literacy by providing users with instant, objective, and accurate guidance on budgeting, savings, loans, investments, and financial planning.
 
@@ -11,7 +12,7 @@ This repository contains the source code for an Intelligent Financial Chatbot, d
 ## Benefits
 * **Accessibility:** Democratizes access to financial planning logic, acting as an educational tool for personal finance management.
 * **Efficiency:** Instantly breaks down complex financial jargon (e.g., fixed vs. variable interest rates) into understandable concepts.
-* **Scalability:** The cloud-native architecture allows the chatbot to handle a limitless number of queries simultaneously without performance degradation.
+* **Scalability:** The cloud-native architecture allows the chatbot to handle a limitless number of queries simultaneously without performance degradation
 
 ## How AI is Utilized
 This project leverages the **Google Gemini (gemini-1.5-flash) Large Language Model (LLM)** via the `google-generativeai` SDK. 
@@ -26,7 +27,6 @@ The application comes pre-loaded with sample prompts to demonstrate its capabili
 
 ## Setup and Installation
 This project is designed to run in a Jupyter Notebook environment such as Google Colab.
-
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/viswajithpanduga1607/Financial-Chatbot.git]
+   git clone https://github.com/viswajithpanduga1607/Financial-Chatbot.git
